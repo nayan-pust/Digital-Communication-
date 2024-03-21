@@ -1,7 +1,7 @@
 # Digital-Communication-
 Digital Communication || Signal Shifting || ASK || FSK || Analog Signal Transfer 
 
-**Have Some Basic problem List to Signal Shifting Analysis**
+# **Have Some Basic problem List to Signal Shifting Analysis**
 1. MATLAB program for Uni-polar Non-Return to Zero (NRZ) Line Coding.
 2. MATLAB program for Polar Non-Return to Zero (NRZ) Line Coding.
 3. MATLAB program for Uni-polar Return to Zero (RZ) Line Coding.
