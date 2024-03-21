@@ -15,6 +15,8 @@ Digital Communication || Signal Shifting || ASK || FSK || Analog Signal Transfer
 ```
 **Line Coding: Refers to the information data/digital data / numerical data convert into transmittable form that means convert waveform**
 ![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/96d58152-e668-4c07-be56-04944e8676df)
+![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/c99f2b11-f18a-4a36-8df3-828580aff521)
+
 ```ruby
 Here RZ means Return Zero
 NRZ means Non Return Zero
