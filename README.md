@@ -2,7 +2,7 @@
 Digital Communication || Signal Shifting || ASK || FSK || Analog Signal Transfer 
 
 # **Have Some Basic problem List to Signal Shifting Analysis**
-1. MATLAB program for Uni-polar Non-Return to Zero (NRZ) Line Coding.
+```ruby 1. MATLAB program for Uni-polar Non-Return to Zero (NRZ) Line Coding.
 2. MATLAB program for Polar Non-Return to Zero (NRZ) Line Coding.
 3. MATLAB program for Uni-polar Return to Zero (RZ) Line Coding.
 4. MATLAB program for Bi-polar Return to Zero (RZ) Line Coding.
@@ -12,3 +12,4 @@ Digital Communication || Signal Shifting || ASK || FSK || Analog Signal Transfer
 8. MATLAB program for Phase Shift Keying (PSK) Modulation and Demodulation.
 9. MATLAB program for Quadrature Phase Shift Keying (QPSK) Modulation and Demodulation.
 10. MATLAB program for Pulse Amplitude Modulation (PAM) and Demodulation.
+```
