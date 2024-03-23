@@ -18,6 +18,6 @@ Digital Communication || Signal Shifting || ASK || FSK || Analog Signal Transfer
 ![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/c99f2b11-f18a-4a36-8df3-828580aff521)
 
 ```ruby
-Here RZ means Return Zero
-NRZ means Non Return Zero
+Here RZ means Return Zero.
+NRZ means Non Return Zero.
 ```
