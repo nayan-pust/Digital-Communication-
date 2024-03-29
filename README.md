@@ -21,3 +21,6 @@ Digital Communication || Signal Shifting || ASK || FSK || Analog Signal Transfer
 Here RZ means Return Zero.
 NRZ means Non Return Zero.
 ```
+# Ploting Explain 
+![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/1e4907ac-2716-49a0-b276-d3bc651401f0)
+
