@@ -52,3 +52,11 @@ A1 = 10
 A2 = 5
 **A1 represents the high amplitude level, and A2 represents the low amplitude level.**
 ```
+![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/68a53020-9479-4761-94f1-d635196855c7)
+![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/72457579-48f3-4c1f-b4bf-d3c4ae9d8dfa)
+![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/834a1489-370f-4ca4-9043-31bc63013845)
+![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/e0c577c8-5e46-47e2-975d-6cf26f23ec03)
+![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/6d62cd14-3b1d-4912-b860-82dbd99e4c18)
+![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/4c0dfcb5-ab54-4022-b5ea-ca9f8f06ddbd)
+
+
