@@ -23,4 +23,32 @@ NRZ means Non Return Zero.
 ```
 # Ploting Explain 
 ![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/1e4907ac-2716-49a0-b276-d3bc651401f0)
+```ruby
+A1 = 10
+A2 = 5
+br = 1 / bp
+f = br * 10
+t2 = np.arange(bp / 99, bp + bp/99, bp / 99)
+ss = len(t2)
+m = np.array([])
+for i in range(len(x)):
+    if x[i] == 1:
+        y = A1 * np.cos(2 * np.pi * f * t2)
+    else:
+        y = A2 * np.cos(2 * np.pi * f * t2)
+    m = np.concatenate((m, y))
 
+t3 = np.arange(bp / 99, bp * len(x), bp / 99)
+plt.subplot(312)
+plt.plot(t3, m)
+plt.grid(True)
+plt.xlabel("Time (sec)")
+plt.ylabel("Amplitude (volt)")
+plt.title("Waveform for binary ASK Modulation Corresponding Binary Information")
+```
+# Explain 
+```ruby
+A1 = 10
+A2 = 5
+**A1 represents the high amplitude level, and A2 represents the low amplitude level.**
+```
