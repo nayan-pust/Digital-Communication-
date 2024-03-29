@@ -60,5 +60,6 @@ A2 = 5
 ![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/4c0dfcb5-ab54-4022-b5ea-ca9f8f06ddbd)
 # QPSK Flowchart
 ![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/508307fd-f1e5-4a85-8278-4caa735d35fe)
+![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/6e761151-7a53-4cc8-b684-a4a7e070dca1)
 
 
