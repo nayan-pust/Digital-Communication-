@@ -58,5 +58,7 @@ A2 = 5
 ![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/e0c577c8-5e46-47e2-975d-6cf26f23ec03)
 ![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/6d62cd14-3b1d-4912-b860-82dbd99e4c18)
 ![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/4c0dfcb5-ab54-4022-b5ea-ca9f8f06ddbd)
+# QPSK Flowchart
+![image](https://github.com/nayan-pust/Digital-Communication-/assets/114688354/508307fd-f1e5-4a85-8278-4caa735d35fe)
 
 
