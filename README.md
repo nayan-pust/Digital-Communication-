@@ -1,5 +1,5 @@
 # Digital-Communication-
-Digital Communication || Signal Shifting || ASK || FSK || Analog Signal Transfer ..
+Digital Communication || Signal Shifting || ASK || FSK || Analog Signal Transfer ....
 ****
 # **Have Some Basic problem List to Signal Shifting Analysis**
 ```ruby 1. MATLAB program for Uni-polar Non-Return to Zero (NRZ) Line Coding.
